@@ -7,7 +7,7 @@ My name is Jacob and I teach mathematics.  On this page you will find links to m
 
 ---
 
-## Introductory Materials
+## Quantitative Reasoning Materials
 
 These materials have been used across a variety of typical introductory classes at the undergraduate level.  I view these as appropriate activities for students who come from non-technical backgrounds and show diverse interests not necessarily in mathematics or science.  This semester these typically fall under some variation of Quantitative Reasoning courses.
 
