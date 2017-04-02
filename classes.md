@@ -12,7 +12,7 @@ google sheets.  Next, students are introduced to the R language through some bas
 datasets and communicating quantitative information visually.  Finally similar work discussing inferential statistics is discussed and students complete a final
 project using R Studio and an R Markdown document.  
 
-## [PreCalculus](https://my-myself-and-i.github.io/DubMathematics/PreCalculus/)
+## [PreCalculus](https://dubmathematics.github.io/DubMathematics/PreCalculus/)
 
 Our precalculus class covers functions, models, and systems.  We primarily utilize the [Python]() computer language in [Jupyter]() notebooks distributed
 through [Sagemathcloud]() and run locally through [Anaconda]().  This material is broken into three sections.  Section I covers introductory material to representing 
