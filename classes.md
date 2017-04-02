@@ -16,7 +16,7 @@ project using R Studio and an R Markdown document.
 
 ## [PreCalculus](https://dubmathematics.github.io/DubMathematics/PreCalculus/)
 
-![]()
+![](https://github.com/DubMathematics/DubMathematics/blob/master/images/goyatonic.png)
 
 Our precalculus class covers functions, models, and systems.  We primarily utilize the [Python]() computer language in [Jupyter]() notebooks distributed
 through [Sagemathcloud]() and run locally through [Anaconda]().  This material is broken into three sections.  Section I covers introductory material to representing 
