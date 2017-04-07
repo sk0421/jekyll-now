@@ -18,7 +18,7 @@ around visualizations and work with customizations in `matplotlib`.
 Students are introduced to the functions we will use for the remainder of the course.  We present linear, exponential, quadratic, higher polynomial, and trigonometric functions to students 
 in a variety of contexts.  The materials for this section that we have at this point are:
 
-* [Representing Functions with Graphs and Words]()
+* [Representing Functions with Graphs and Words](https://github.com/DubMathematics/DubMathematics/blob/master/pre_calc_1.ipynb)
 * [Representing Functions with Tables and Symbols]()
 * [Representing Functions as Arithmetic and Geometric Sequences]()
 * [Representing Population Growth with linear, exponential, and quadratic functions]()
