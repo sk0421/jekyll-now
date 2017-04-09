@@ -15,14 +15,10 @@ In this section we first want to move between different representational strateg
 
 
 
-### Section II: Modeling Data with Functions
+### [Section II: Modeling Data with Functions](https://dubmathematics.github.io/DubMathematics/preCalc_II/)
 
-In this section students use least squares regression to fit functions to data.  Students are introduced to `scikitlearn` in the final lesson
-to understand the difference in the Machine Learning paradigm of big data and linear regression.
+In this section students use least squares regression to fit functions to data.  Students are introduced to `scikitlearn` in the final lesson to understand the difference in the Machine Learning paradigm of big data and linear regression.
 
-* [Introduction to Linear Regression and Least Squares]()
-* [Non Linear Functions and Regression]()
-* [Further Applications and Machine Learning with scikitlearn]()
 
 ### Section III: Modeling with Matrices
 
