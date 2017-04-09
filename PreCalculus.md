@@ -3,7 +3,7 @@ layout: page
 title: PreCalculus
 ---
 
-# PreCalculus Overview
+
 
 The PreCalculus materials derive from my work this semester teaching at The New School.  Before getting started, we recommend you install 
 [Anaconda](https://www.continuum.io/downloads) on your computer.  This is the easiest way to get started with [Jupyter](https://jupyter.org/) notebooks.  If you are a teacher, we recommend you sign up for 
