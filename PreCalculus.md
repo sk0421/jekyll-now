@@ -20,12 +20,9 @@ In this section we first want to move between different representational strateg
 In this section students use least squares regression to fit functions to data.  Students are introduced to `scikitlearn` in the final lesson to understand the difference in the Machine Learning paradigm of big data and linear regression.
 
 
-### Section III: Modeling with Matrices
+### [Section III: Modeling with Matrices](https://dubmathematics.github.io/DubMathematics/preCalc_III/)
 
-In this section students explore the use of matrices to model data.  We being by exploring some basic matric arithmetic applied to image manipulation.
+In this section students explore the use of matrices to model data.  We being by exploring some basic matric arithmetic applied to image manipulation.  Later, students connect matrix multiplication to problems of linear regression.  Finally, some deeper applications from 
+computer vision and recommender systems are explored to again connect the Machine Learning paradigm to problems in linear algebra.
 
-* [Intro to Matrices]()
-* [Matrix Multiplication]()
-* [Distance, Norms, and Matrices]()
-* [Transformations and Trigonometry]()
-* [Repeating Operations on Matrices]()
+
