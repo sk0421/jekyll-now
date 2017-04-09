@@ -1,3 +1,8 @@
+---
+layout: page
+title: PreCalculus Section II
+---
+
 **Section II: Modeling Data with Functions**
 
 In this section, we aim to familiarize students with basic modeling of data using Least Squares techniques.  First, we demonstrate some simple 
