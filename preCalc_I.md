@@ -1,4 +1,4 @@
-![](/images/older.jpg)
+
 
 **Section I: Representing and Classifying Functions**
 
