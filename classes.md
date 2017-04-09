@@ -4,7 +4,7 @@ title: Classes
 permalink: /classes/
 ---
 
-## Quantitative Reasoning
+## [Quantitative Reasoning](https://dubmathematics.github.io/DubMathematics/QR/)
 
 
 The material is drawn from a variety of classes that typically are a compulsory class for undergraduate students seeking to fulfill a mathematics requirement.
