@@ -6,7 +6,6 @@ permalink: /classes/
 
 ## Quantitative Reasoning
 
-![]()
 
 The material is drawn from a variety of classes that typically are a compulsory class for undergraduate students seeking to fulfill a mathematics requirement.
 These materials focus on introductory work with data and technology.  First, students become familiar with markdown documents and spreadsheets with activities in
@@ -16,7 +15,7 @@ project using R Studio and an R Markdown document.
 
 ## [PreCalculus](https://dubmathematics.github.io/DubMathematics/PreCalculus/)
 
-![](https://github.com/DubMathematics/DubMathematics/blob/master/images/goyatonic.png)
+
 
 Our precalculus class covers functions, models, and systems.  We primarily utilize the [Python]() computer language in [Jupyter]() notebooks distributed
 through [Sagemathcloud]() and run locally through [Anaconda]().  This material is broken into three sections.  Section I covers introductory material to representing 
@@ -26,7 +25,6 @@ initially discussing applications to computer vision, regression, and machine le
 
 ## Calculus
 
-![]()
 
 These calculus materials reflect my teaching at The New School for the past number of years.  The class is broken into three sections.
 First, students discuss representation and summations to understand ancient problems of quadrature and then the definite integral of the moderns.
