@@ -3,7 +3,7 @@ layout: page
 title: Quantitative Reasoning
 ---
 
-**Quantitative Reasoning**
+
 
 These materials derive from a semester experience at The New School teaching quantitiative reasoning.  Our goal was to expose students to some 
 basic problem solving using technology.  We begin by using google sheets but quickly tranisition to using R as our language of choice.
@@ -16,7 +16,7 @@ Students use google spreadsheets to solve problems involving arithmetic and geom
 We connect these ideas to the context of inflation and the Consumer price index with data from the Bureau of Labor Statistics.  Finally,
 we introduce students to R.
 
-**[Section II: Intro to Data Analysis and Visualization]()
+**[Section II: Intro to Data Analysis and Visualization]()**
 
 Students explore the capabilities of R and create their first R Markdown documents.  We use the default R color schemes and R color brewer together
 with the barplot feature to make nice images in our first exploration.  Next, students explore built-in datasets from R with to customize a
