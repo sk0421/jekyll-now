@@ -3,7 +3,7 @@ layout: page
 title: Home
 ---
 
-![]()
+
 
 My name is Jacob and I teach mathematics.  On this page you will find links to materials from my classes that I've been teaching, 
 blog posts about a variety of topics, and some of my other writing and production as time goes on.  
