@@ -1,4 +1,6 @@
-## Section I: Representing and Classifying Functions
+![](/images/older.jpg)
+
+**Section I: Representing and Classifying Functions**
 
 This is our introductory material.  Here, we want to remind students about the vocabulary of *functions* as a process of describing the 
 interconnectedness of quantities.  We are not interested in the theory of functions, having students decide whether or not something is a function,
