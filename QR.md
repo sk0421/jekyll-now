@@ -22,6 +22,6 @@ Students explore the capabilities of R and create their first R Markdown documen
 with the barplot feature to make nice images in our first exploration.  Next, students explore built-in datasets from R with to customize a
 barplot.  Finally, students load and visualize additional datasets including their earlier work with the Consumer Price Index and Inflation.
 
-**[Section III: Case Studies]()
+**[Section III: Case Studies]()**
 
 Using their new tools of data analysis and visualizations, students focus on a variety of cases where data might have been misleading.
