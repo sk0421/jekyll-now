@@ -1,3 +1,7 @@
+---
+layout: page
+title: PreCalculus Section I
+---
 
 
 **Section I: Representing and Classifying Functions**
