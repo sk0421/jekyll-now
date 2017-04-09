@@ -6,7 +6,7 @@ Please explore and use the material here and use as you would like.  This is the
 
 ## About Us
 
-We are a group of teachers interested in thinking differently about schooling and mathematics, providing materials to start new conversations and movement.  Please contact us at [dubMathematics@gmail.com](mailto:dubMathematics@gmail.com) with any questions.
+We are a group of teachers interested in thinking differently about schooling and mathematics, providing materials to start new conversations and movement.  Please contact me at [koehlerj@newschool.edu](mailto:koehlerj@newschool.edu) with any questions.
 
 ## Using the Materials
 
