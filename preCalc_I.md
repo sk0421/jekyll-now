@@ -23,7 +23,7 @@ in words, graphs, tables, and mathematical symbols.  Our primary goals in this s
 Here are some draft notebooks in the order that we've discussed problems this semester.  We are in the process of revising these materials, and they
 are not meant to necessarily be used in presented order.
 
-- [Notebook 1](DubMathematics/pre_calc_1.ipynb): **Introduction to Jupyter notebook and Python I**. Here we use markdown cells, $\LaTeX$, numpy, and the matplotlib plotting library.  Students define and plot functions using numpy and matplotlib.  Using markdown cells and LaTeX, students learn to communicate answers about different functions.
+- [Notebook 1](https://github.com/DubMathematics/DubMathematics/blob/master/notebooks/section_I/notebook_2/precalc_2.ipynb): **Introduction to Jupyter notebook and Python I**. Here we use markdown cells, $\LaTeX$, numpy, and the matplotlib plotting library.  Students define and plot functions using numpy and matplotlib.  Using markdown cells and LaTeX, students learn to communicate answers about different functions.
 
 - [Notebook 2](): **Introduction to Jupyter notebook and Python II**. In this notebook, students see some basic functionality of the Pandas library to create and load values as tables.  We show some built in plotting functionality of matplotlib with Pandas.  Additionally, students use the Sympy library to operate on functions symbolically.  A final problems demonstrates the use of user input and Sympy's plotting functionality.
 
