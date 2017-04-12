@@ -1,6 +1,9 @@
 ---
 layout: page
 title: PreCalculus Section II
+link: PreCalulus
+background:
+  -url: logo.png
 ---
 
 **Section II: Modeling Data with Functions**
