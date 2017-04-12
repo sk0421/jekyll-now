@@ -31,7 +31,7 @@ are not meant to necessarily be used in presented order.
 
 - [Notebook 4](https://github.com/DubMathematics/DubMathematics/blob/master/notebooks/section_I/notebook_4/precalc_notebook_4.ipynb):  **Sequences, Functions, Populations**: In this notebook we extend the problems from simple and compound interest to problems involving population growth and fish harvesting.  We move from integer to real domains and find linear, exponential, and quadratic contexts evolve from the ecological context.  We would hope that students are able to recognize linear, quadratic, and exponential functions in a variety of guises at the end of this.
 
-- [Notebook 5](https://github.com/DubMathematics/DubMathematics/blob/master/notebooks/section_I/notebook_5/precalc_notebook_5.ipynb)**Transformations of Functions**: In this notebook students experiment with sliders to understand various transformations of functions.
+- [Notebook 5](https://github.com/DubMathematics/DubMathematics/blob/master/notebooks/section_I/notebook_5/precalc_notebook_5.ipynb): **Transformations of Functions**: In this notebook students experiment with sliders to understand various transformations of functions.
 
 - [Notebook 6](https://github.com/DubMathematics/DubMathematics/blob/master/notebooks/section_I/notebook_6/trig_review.ipynb):  **Harmonic Motion I**: In this notebook we introduce problems involving harmonic motion in a variety of contexts.  Students connect these situations to graphs of sin and cos functions.  Further, the vocabulary of amplitude, frequency, period, and phase shift is introduced as a way to generate functional models of harmonic motion.
 
